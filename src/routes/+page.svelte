@@ -6,6 +6,29 @@
 
     // Asana-like timeline feature, for assignments and projects.
 
+
+    // data for assigments in a physics class
+    let assignments = [
+        {
+            'title': 'Assignment 1',
+            'description': 'Assignment 1 Description',
+            'due': '2024-10-01',
+            'status': 'Not Started'
+        },
+        {
+            'title': 'Assignment 2',
+            'description': 'Assignment 2 Description',
+            'due': '2024-10-02',
+            'status': 'Not Started'
+        },
+        {
+            'title': 'Assignment 3',
+            'description': 'Assignment 3 Description',
+            'due': '2024-10-03',
+            'status': 'Not Started'
+        }
+    ];  
+
     let dates = [
         {
             'date': '2024-10-01',
